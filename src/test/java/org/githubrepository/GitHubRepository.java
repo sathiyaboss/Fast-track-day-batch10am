@@ -6,6 +6,10 @@ public class GitHubRepository {
 		
 		System.out.println("github account created");
 		System.out.println("github repository created with the help of gitbash");
+	
+	
+	    int a=50;
+	    System.out.println(a);
 	}
 
 }
